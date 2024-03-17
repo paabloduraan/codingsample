@@ -4,7 +4,6 @@
  *              bitpack.c
  *
  * Date:        03/03/2022
- * Authors:     Pablo Duran (pduran01) and Abe Park (ypark12)
  *
  * Purpose:     Implementation of bitpack functions. Include implementation
  *              details of the functions introduced in the provided bitpack.h
